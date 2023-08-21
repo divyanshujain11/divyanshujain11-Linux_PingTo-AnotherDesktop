@@ -8,4 +8,4 @@
 
      ping -p 68656c6c6f <IP>
 
-  (Linkdin Account)[https://www.linkedin.com/in/divyanshu-jain-614a05197/]
+  (Linkdin Account)![https://www.linkedin.com/in/divyanshu-jain-614a05197/]
